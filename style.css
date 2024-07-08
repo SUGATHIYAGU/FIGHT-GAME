@@ -125,3 +125,8 @@ body {
     height:150px;
     width: 300px;
   }
+@media screen only (max-width:600px){
+#reset{
+margin-left:200px;
+}
+}
